@@ -1,0 +1,6 @@
+Dependences:
+    - express
+    - body-parser
+    - cors
+    - nodemon
+    - morgan
